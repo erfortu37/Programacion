@@ -1,4 +1,4 @@
-# Ejercicio 12
+# Ejercicio 12. Realiza un programa que, introduciendo en los valores de lado, base menor, base mayor y altura de un trapecio isósceles, nos devuelva por pantalla en el área y el perímetro.
 
 lado=float(input("Dime un lado del trapecio isósceles:"))
 altura=float(input("Dime la altura del trapecio isósceles:"))
