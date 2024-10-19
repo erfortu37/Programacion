@@ -1,4 +1,4 @@
-# Ejercicio 4 (uso del float)
+# Ejercicio 4. A partir del código anterior, realiza una versión para números con decimales
 
 var1=float (input("dime un valor con deciamles:"))
 var2=float (input("dime otro valor con decimales:"))
