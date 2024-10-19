@@ -1,4 +1,4 @@
-# Ejercicio 10
+# Ejercicio 10. Introduce por teclado dos números y muestre por pantalla la siguiente información: cociente, resto y si el dividendo es par o impar.
 
 var_1=int(input("Dime un valor:"))
 var_2=int(input("Dime un valor:"))
