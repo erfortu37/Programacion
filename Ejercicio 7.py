@@ -1,4 +1,4 @@
-# Ejercicio 7
+# Ejercicio 7. programa que calcule dos operandos con los 7 operadores vistos en clase. ¿Cómo puedes forzar que el resultado de la división tenga 2 decimales?
 
 operador_1=int(input("Dime el operador 1:"))
 operador_2=int(input("Dime el operador 2:"))
