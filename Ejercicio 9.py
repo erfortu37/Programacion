@@ -1,4 +1,4 @@
-# Ejercicio 9
+# Ejercicio 9. programa que pida los segundos y muestre por pantalla y en la misma frase los minutos y las horas
 
 Segundos= float (input("Dime un número de segundos:"))
 
