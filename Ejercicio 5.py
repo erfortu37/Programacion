@@ -1,4 +1,4 @@
-# Ejercicio 5 (creación de frases)
+# Ejercicio 5. Programa que pida cinco palabras y muestre una frase con las cinco. Modifica el código para que entre palabra y palabra haya una coma.
 
 pal_1=input("dime una palabra:")
 pal_2=input("dime otra palabra:")
