@@ -1,4 +1,4 @@
-# Ejercicio 8
+# Ejercicio 8. programa que pida un número de horas y muestre por pantalla los minutos y segundos
 
 Hora= float (input("Dime un número de horas:"))
 
